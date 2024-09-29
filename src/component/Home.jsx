@@ -12,6 +12,7 @@ function Home() {
   return (
     <>
       <Main />
+      
               <Advantages/>
       <ProductsCard />
           <Frequently />

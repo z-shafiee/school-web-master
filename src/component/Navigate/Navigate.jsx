@@ -16,7 +16,9 @@ function InfoCard({ title, description }) {
 
 
 
-                 function Navigate() {  
+
+
+function Navigate() {  
     const cardsData = [  
         {  
             title: "About Us",  
